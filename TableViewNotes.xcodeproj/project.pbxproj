@@ -16,6 +16,7 @@
 		C192857129444B3F00675787 /* TableViewNotesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C192857029444B3F00675787 /* TableViewNotesTests.swift */; };
 		C192857B29444B3F00675787 /* TableViewNotesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C192857A29444B3F00675787 /* TableViewNotesUITests.swift */; };
 		C192857D29444B3F00675787 /* TableViewNotesUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C192857C29444B3F00675787 /* TableViewNotesUITestsLaunchTests.swift */; };
+		C192858A2946515F00675787 /* MovieInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = C19285892946515F00675787 /* MovieInfo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		C192857629444B3F00675787 /* TableViewNotesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TableViewNotesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C192857A29444B3F00675787 /* TableViewNotesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewNotesUITests.swift; sourceTree = "<group>"; };
 		C192857C29444B3F00675787 /* TableViewNotesUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewNotesUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C19285892946515F00675787 /* MovieInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieInfo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				C192855B29444B3D00675787 /* SceneDelegate.swift */,
 				C192855D29444B3D00675787 /* ViewController.swift */,
 				C192855F29444B3D00675787 /* Main.storyboard */,
+				C19285892946515F00675787 /* MovieInfo.swift */,
 				C192856229444B3E00675787 /* Assets.xcassets */,
 				C192856429444B3E00675787 /* LaunchScreen.storyboard */,
 				C192856729444B3E00675787 /* Info.plist */,
@@ -260,6 +263,7 @@
 			files = (
 				C192855E29444B3D00675787 /* ViewController.swift in Sources */,
 				C192855A29444B3D00675787 /* AppDelegate.swift in Sources */,
+				C192858A2946515F00675787 /* MovieInfo.swift in Sources */,
 				C192855C29444B3D00675787 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
